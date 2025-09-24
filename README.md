@@ -1,5 +1,4 @@
 # started
-my phehela!
+this is my first github repository
 <br>
-DSA in JAVA
-user-TEJU
+author -Teju
